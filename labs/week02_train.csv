@@ -1,13 +1,10 @@
-N	51.9018	-8.4582	D537	03 Oct 2023	D537\nCork to Cobh\nExpected Departure 21:00	To Cobh
-N	51.9018	-8.4582	D579	03 Oct 2023	D579\nCork to Midleton\nExpected Departure 21:15	To Midleton
 
-
-N	53.3433	-6.24829	D936	03 Oct 2023	D936\nDublin Pearse to Maynooth\nExpected Departure 21:08	Northbound
-N	53.3464	-6.29461	D224	03 Oct 2023	D224\nDublin Heuston to Portlaoise\nExpected Departure 21:05	To Portlaoise
+N	51.9018	-8.4582	D537	17 Oct 2023	D537\nCork to Cobh\nExpected Departure 21:00	To Cobh
 
 
 
-
+N	53.3433	-6.24829	D936	17 Oct 2023	D936\nDublin Pearse to Maynooth\nExpected Departure 21:08	Northbound
+N	53.3464	-6.29461	D224	17 Oct 2023	D224\nDublin Heuston to Portlaoise\nExpected Departure 21:05	To Portlaoise
 
 
 
@@ -16,7 +13,7 @@ N	53.3464	-6.29461	D224	03 Oct 2023	D224\nDublin Heuston to Portlaoise\nExpected
 
 
 
-
+R	0	0	D423	17 Oct 2023	D423\n20:30 - Grand Canal Dock to Hazelhatch (-1 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	Southbound
 
 
 
@@ -29,29 +26,34 @@ N	53.3464	-6.29461	D224	03 Oct 2023	D224\nDublin Heuston to Portlaoise\nExpected
 
 
 
-R	53.334	-6.37868	D423	03 Oct 2023	D423\n20:30 - Grand Canal Dock to Hazelhatch (2 mins late)\nArrived Park West and Cherry Orchard next stop Clondalkin	Southbound
-
-
-
-
-R	53.3704	-6.50598	D934	03 Oct 2023	D934\n20:10 - Dublin Pearse to Maynooth (10 mins late)\nDeparted Leixlip (Louisa Bridge) next stop Maynooth	Northbound
-R	53.3725	-6.29869	D935	03 Oct 2023	D935\n20:50 - Dublin Connolly to Mullingar (5 mins late)\nArrived Broombridge next stop Pelletstown	Northbound
-R	53.3786	-6.19131	D827	03 Oct 2023	D827\n20:50 - Dublin Pearse to Drogheda (2 mins late)\nDeparted Harmonstown next stop Malahide	Northbound
 
 
 
 
 
-R	53.4175	-6.46483	D325	03 Oct 2023	D325\n20:47 - Clonsilla to M3 Parkway (9 mins late)\nDeparted Dunboyne next stop M3 Parkway	Northbound
-
-
-R	53.6118	-6.18226	D826	03 Oct 2023	D826\n20:15 - Dublin Pearse to Drogheda (2 mins late)\nDeparted Balbriggan next stop Gormanston	Northbound
-
-
-
-T	53.0371	-7.30086	D222	03 Oct 2023	D222\n19:45 - Dublin Heuston to Portlaoise(2 mins late)\nTERMINATED Portlaoise at 20:59	To Portlaoise
 
 
 
 
 
+R	53.3531	-6.24591	D827	17 Oct 2023	D827\n20:50 - Dublin Pearse to Drogheda (3 mins late)\nArrived Dublin Connolly next stop Malahide	Northbound
+
+
+
+
+R	53.3632	-6.25908	D935	17 Oct 2023	D935\n20:50 - Dublin Connolly to Mullingar (2 mins late)\nDeparted Drumcondra next stop Broombridge	Northbound
+R	53.3704	-6.50598	D934	17 Oct 2023	D934\n20:10 - Dublin Pearse to Maynooth (5 mins late)\nDeparted Leixlip (Louisa Bridge) next stop Maynooth	Northbound
+
+
+
+
+
+
+R	53.5741	-6.11933	D826	17 Oct 2023	D826\n20:15 - Dublin Pearse to Drogheda (2 mins late)\nArrived Skerries next stop Balbriggan	Northbound
+
+
+
+
+T	53.0371	-7.30086	D222	17 Oct 2023	D222\n19:45 - Dublin Heuston to Portlaoise(0 mins late)\nTERMINATED Portlaoise at 20:57	To Portlaoise
+
+T	53.4349	-6.46898	D325	17 Oct 2023	D325\n20:47 - Clonsilla to M3 Parkway(1 mins late)\nTERMINATED M3 Parkway at 21:00	Northbound
