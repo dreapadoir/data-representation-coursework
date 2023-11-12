@@ -9,7 +9,7 @@
     <book catalogue="technical">
         <ISBN>1292253497</ISBN>
         <title>Modern Engineering Mathematics</title>
-        <author>Glyn James</title>
+        <author>Glyn James</author>
     </book>
     <book catalogue="cooking">
         <ISBN>1788790774</ISBN>
